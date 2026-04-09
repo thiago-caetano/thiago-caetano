@@ -1,4 +1,14 @@
-## Hi there 👋
+## Sejam Bem-Vindos ao meu Git!
+
+<p align="center">
+  <img src="./coding.gif" alt="Coding GIF" width="700">
+</p>
+
+
+
+
+
+
 
 <!--
 **thiago-caetano/thiago-caetano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
