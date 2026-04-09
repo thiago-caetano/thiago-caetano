@@ -1,4 +1,4 @@
-## # Hi, welcome to my GitHub profile! 
+## Hi, welcome to my GitHub profile! 
 #### Here you can find my projects, experiments, and a bit of my learning journey.
 
 <p align="center">
