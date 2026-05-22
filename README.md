@@ -43,27 +43,43 @@
    </td>
     <td width="40%" align="center" valign="top">
 
+<div align="center">
+
 <h2>Connect</h2>
+
+</div>
 
 <hr>
 
 <br>
 
-<a href="https://br.linkedin.com/in/caetanothiago">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn"
-  />
-</a>
-
-<br><br>
-
-<a href="https://github.com/thiago-caetano">
-  <img
-    src="https://img.shields.io/badge/GitHub-thiago--caetano-181717?style=for-the-badge&logo=github&logoColor=white"
-    alt="GitHub"
-  />
-</a>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://br.linkedin.com/in/caetanothiago">
+        <img
+          width="240"
+          src="https://img.shields.io/badge/LinkedIn-Visit%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn"
+        />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td height="24"></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/thiago-caetano">
+        <img
+          width="240"
+          src="https://img.shields.io/badge/GitHub-thiago--caetano-181717?style=for-the-badge&logo=github&logoColor=white"
+          alt="GitHub"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
    </td>
   </tr>
@@ -78,14 +94,14 @@
     <td align="center" width="50%">
       <img
         width="100%"
-        src="https://github-readme-stats-thiago.vercel.app/api?username=thiago-caetano&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide_border=true&line_height=28&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+        src="https://github-readme-stats-thiago.vercel.app/api?username=thiago-caetano&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide_border=true&line_height=28&card_width=520&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
         alt="Thiago Caetano's GitHub Stats"
       />
     </td>
     <td align="center" width="50%">
       <img
         width="100%"
-        src="https://github-readme-stats-thiago.vercel.app/api/top-langs/?username=thiago-caetano&layout=compact&locale=en&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+        src="https://github-readme-stats-thiago.vercel.app/api/top-langs/?username=thiago-caetano&layout=compact&locale=en&langs_count=6&hide_border=true&card_width=520&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
         alt="Most Used Languages"
       />
     </td>
@@ -113,6 +129,7 @@
     <td align="center" width="50%">
       <h3>Frontend</h3>
       <img
+        height="42"
         src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,vite"
         alt="Frontend Skills"
       />
@@ -120,8 +137,14 @@
     <td align="center" width="50%">
       <h3>Backend & Database</h3>
       <img
+        height="42"
         src="https://skillicons.dev/icons?i=nodejs,supabase,postgres"
         alt="Backend and Database Skills"
+      />
+      <img
+        height="42"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+        alt="Azure SQL Database"
       />
     </td>
   </tr>
@@ -129,13 +152,20 @@
     <td align="center" width="50%">
       <h3>Tools & Environment</h3>
       <img
-        src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel"
+        height="42"
+        src="https://skillicons.dev/icons?i=git,github,vscode,vercel"
         alt="Tools and Environment"
+      />
+      <img
+        height="42"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
+        alt="Ubuntu"
       />
     </td>
     <td align="center" width="50%">
       <h3>Additional Skills</h3>
       <img
+        height="42"
         src="https://skillicons.dev/icons?i=py,anaconda"
         alt="Additional Skills"
       />
