@@ -87,7 +87,7 @@
 
 ---
 
-<h1 align="center">GitHub Overview</h1>
+## GitHub Overview
 
 <table align="center" width="100%">
   <tr>
