@@ -87,21 +87,21 @@
 
 ---
 
-<h1 align="left">GitHub Stats</h1>
+<h1 align="center">GitHub Overview</h1>
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="50%">
       <img
         width="100%"
-        src="https://github-readme-stats-thiago.vercel.app/api?username=thiago-caetano&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide_border=true&line_height=28&card_width=520&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
+        src="https://github-readme-stats-thiago.vercel.app/api?username=thiago-caetano&show_icons=true&locale=en&include_all_commits=true&count_private=true&hide_border=true&line_height=28&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF"
         alt="Thiago Caetano's GitHub Stats"
       />
     </td>
     <td align="center" width="50%">
       <img
         width="100%"
-        src="https://github-readme-stats-thiago.vercel.app/api/top-langs/?username=thiago-caetano&layout=compact&locale=en&langs_count=6&hide_border=true&card_width=520&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+        src="https://github-readme-stats-thiago.vercel.app/api/top-langs/?username=thiago-caetano&layout=compact&locale=en&langs_count=6&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
         alt="Most Used Languages"
       />
     </td>
