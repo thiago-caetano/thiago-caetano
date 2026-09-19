@@ -8,11 +8,7 @@
 
   <br>
 
-  <img
-    src="./coding.gif"
-    alt="Coding GIF"
-    width="700"
-  >
+  <img src="./coding.gif" alt="Coding GIF" width="700">
 
 </div>
 
@@ -44,8 +40,7 @@
   <li>🧠 Improving my skills in the JavaScript ecosystem and modern web technologies</li>
 </ul>
 
-    </td>
-
+   </td>
     <td width="40%" align="center" valign="top">
 
 <div align="center">
@@ -70,11 +65,9 @@
       </a>
     </td>
   </tr>
-
   <tr>
     <td height="24"></td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="https://github.com/thiago-caetano">
@@ -88,7 +81,7 @@
   </tr>
 </table>
 
-    </td>
+   </td>
   </tr>
 </table>
 
@@ -105,7 +98,6 @@
         alt="Thiago Caetano's GitHub Stats"
       />
     </td>
-
     <td align="center" width="50%">
       <img
         width="100%"
@@ -116,6 +108,18 @@
   </tr>
 </table>
 
+<br>
+
+<div align="center">
+
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=thiago-caetano&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true"
+    alt="GitHub Activity Graph"
+  />
+
+</div>
+
 ---
 
 ## Tech Stack
@@ -124,23 +128,19 @@
   <tr>
     <td align="center" width="50%">
       <h3>Frontend</h3>
-
       <img
         height="42"
         src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,tailwind,vite"
         alt="Frontend Skills"
       />
     </td>
-
     <td align="center" width="50%">
       <h3>Backend & Database</h3>
-
       <img
         height="42"
         src="https://skillicons.dev/icons?i=nodejs,supabase,postgres"
         alt="Backend and Database Skills"
       />
-
       <img
         height="42"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
@@ -148,27 +148,22 @@
       />
     </td>
   </tr>
-
   <tr>
     <td align="center" width="50%">
       <h3>Tools & Environment</h3>
-
       <img
         height="42"
         src="https://skillicons.dev/icons?i=git,github,vscode,vercel"
         alt="Tools and Environment"
       />
-
       <img
         height="42"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg"
         alt="Ubuntu"
       />
     </td>
-
     <td align="center" width="50%">
       <h3>Additional Skills</h3>
-
       <img
         height="42"
         src="https://skillicons.dev/icons?i=py,anaconda"
@@ -183,7 +178,7 @@
 ## Courses and Certificates
 
 | Course | Certificate |
-|:-------|:------------|
+|--------|-------------|
 | Programming Logic | [Certificate](https://hermes.dio.me/certificates/VOTEUV0H.pdf) |
 | GitHub Certification | [Certificate](https://hermes.dio.me/certificates/NVQE9DCM.pdf) |
 
