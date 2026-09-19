@@ -108,18 +108,6 @@
   </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=thiago-caetano&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=FFFFFF&area=true&area_color=1F6FEB&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-
-</div>
-
 ---
 
 ## Tech Stack
